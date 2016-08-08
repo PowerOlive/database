@@ -1,4 +1,5 @@
 ## database
+[![Build Status](https://drone.io/github.com/btlike/database/torrent/status.png)](https://drone.io/github.com/btlike/database/torrent/latest)
 
 ### Mysql表结构
 
@@ -13,3 +14,6 @@
 
 - 创建名为 torrent的库
 - 执行database.sql中的sql语句
+
+### 安装
+`go get github.com/database/torrent`
