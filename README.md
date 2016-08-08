@@ -1,5 +1,5 @@
 ## database
-[![Build Status](https://drone.io/github.com/btlike/database/torrent/status.png)](https://drone.io/github.com/btlike/database/torrent/latest)
+[![Build Status](https://drone.io/github.com/btlike/database/status.png)](https://drone.io/github.com/btlike/database/latest)
 
 ### Mysql表结构
 
